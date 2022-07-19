@@ -1,0 +1,13 @@
+# homework 2-1 Mutable & Immutable
+
+Mutalbe : String, List, Range, Set
+Immutable : Tuple, Dictionary
+
+# homework 2-2 Dictionary 만들기
+
+dic = {'김준영' : '28', '고영석' : '27', '김민훈' : '26'}
+
+# homework 2-3 평균 구하기
+
+scores = [80,89,99,83]
+print(sum(scores)/len(scores))
